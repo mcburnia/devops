@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"thead	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.tf",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix",
+				"name": "provider \"aws\" {"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andimcburnie/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/andimcburnie/Google Drive/Swapi/cloudinary.yml",
+		"/Volumes/Projects/LODI/main.cpp",
+		"/Volumes/Projects/LODI/CXiirt.h",
+		"/Volumes/Projects/LODI/CXiirt.cpp",
+		"/Volumes/Projects/LODI/CMakeLists.txt",
+		"/Volumes/Projects/LODI/_src.cmake",
+		"/Volumes/Projects/LODI/.idea/Xiirt.iml",
+		"/Volumes/Projects/LODI/.idea/workspace.xml",
+		"/Volumes/Projects/ZeroMQExample/main.cpp",
+		"/Volumes/Projects/LODI/.idea/modules.xml",
+		"/Volumes/Projects/LODI/.idea/.name",
+		"/Volumes/Projects/LODI/.cproject",
+		"/Applications/MAMP/htdocs/UserSpice44/z_us_root.php",
+		"/Applications/MAMP/htdocs/Swapi/UserSpice44/index.php",
+		"/Applications/MAMP/htdocs/McBistro/create_tab.php",
+		"/Users/andimcburnie/Google Drive/xpence-stuff/Claire/Master.html",
+		"/Users/andimcburnie/Google Drive/xpence-stuff/x-pence-old/index.html",
+		"/Users/andimcburnie/Desktop/mcbistro.sql",
+		"/Applications/MAMP/conf/nginx/nginx.conf",
+		"/Applications/MAMP/htdocs/models/db-settings.php",
+		"/Users/andimcburnie/Downloads/FieldingData/scratch.sql",
+		"/Users/andimcburnie/Downloads/FieldingData/ods master script.sql",
+		"/Users/andimcburnie/Google Drive/_H4U-ThomasCook/SPF/jonview/JonView/tui_rates.csv",
+		"/Users/andimcburnie/Google Drive/_H4U-ThomasCook/SPF/jonview/JonView/Tui_GER_263_VAdd_Current_and_NewVAs.csv",
+		"/Users/andimcburnie/Google Drive/_H4U-ThomasCook/SPF/jonview/JonView/tui_inventory_with_inv_level.csv",
+		"/Users/andimcburnie/Google Drive/_H4U-ThomasCook/Downloads/hotel_3.1.6/EDF_HOTEL_COMMONS.xsd"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/Projects/LODI"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Created on: 3 Jul 2019",
+			"Xiirt",
+			"display",
+			"slide",
+			"X-Pence",
+			"mcbistro",
+			",",
+			"€ ",
+			"$K$",
+			"$C$",
+			"$C$6",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Created on: 5 November 2018",
+			"LODI",
+			"pop",
+			"SNRG",
+			"id6252366_mcbistro",
+			"",
+			"K",
+			"C",
+			"C6",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.tf",
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "provider \"aws\" {",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/andimcburnie/Google Drive/Swapi/webapp/swapi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 109.0,
+	"status_bar_visible": true
+}
